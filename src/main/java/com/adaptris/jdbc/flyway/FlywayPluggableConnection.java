@@ -1,6 +1,6 @@
 package com.adaptris.jdbc.flyway;
 
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 
 import com.adaptris.annotation.ComponentProfile;
 import com.adaptris.annotation.DisplayOrder;
